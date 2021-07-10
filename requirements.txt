@@ -1,0 +1,9 @@
+pandas
+yfinance
+ipython
+ipythonblocks
+ipywidgets
+jupyter
+numpy
+discord.py
+python-dotenv
