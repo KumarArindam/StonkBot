@@ -8,3 +8,4 @@ numpy
 discord.py
 python-dotenv
 yahoofinancials
+schedule
